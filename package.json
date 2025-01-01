@@ -1,0 +1,15 @@
+{
+  "name": "webapp-nginx-docker",
+  "version": "1.0.0",
+  "description": "Reverse Proxy Load Balancer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Goswami",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "path": "^0.12.7"
+  }
+}
